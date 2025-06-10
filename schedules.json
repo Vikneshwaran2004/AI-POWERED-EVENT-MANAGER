@@ -1,0 +1,806 @@
+[
+    {
+        "event_name": "CULTURALS",
+        "organizer": "Vicky",
+        "venue": "KRCT",
+        "date": "2025-05-23",
+        "activities": [
+            {
+                "name": "Dance",
+                "time": "10:00 AM"
+            },
+            {
+                "name": "Song",
+                "time": "11:00 AM"
+            },
+            {
+                "name": "Speech",
+                "time": "12:00 PM"
+            },
+            {
+                "name": "Award",
+                "time": "01:00 PM"
+            }
+        ]
+    },
+    {
+        "event_name": "CULTURALS",
+        "organizer": "Vicky",
+        "venue": "KRCT",
+        "date": "2025-05-23",
+        "activities": [
+            {
+                "name": "dance",
+                "time": "10:00 AM"
+            },
+            {
+                "name": "song",
+                "time": "11:00 AM"
+            },
+            {
+                "name": "speech",
+                "time": "12:00 PM"
+            },
+            {
+                "name": "award",
+                "time": "01:00 PM"
+            }
+        ]
+    },
+    {
+        "event_name": "CULTURALS",
+        "organizer": "Vicky",
+        "venue": "KRCT",
+        "date": "2025-05-23",
+        "activities": [
+            {
+                "name": "Open Ceremony",
+                "time": "10:00 AM"
+            },
+            {
+                "name": "Dance",
+                "time": "11:00 AM"
+            },
+            {
+                "name": "Song",
+                "time": "12:00 PM"
+            },
+            {
+                "name": "Speech",
+                "time": "01:00 PM"
+            },
+            {
+                "name": "Bharathanatiyam",
+                "time": "02:00 PM"
+            },
+            {
+                "name": "Award",
+                "time": "03:00 PM"
+            }
+        ]
+    },
+    {
+        "event_name": "CULTURALS",
+        "organizer": "Vicky",
+        "venue": "KRCT",
+        "date": "2025-05-23",
+        "activities": [
+            {
+                "name": "Open Ceremony",
+                "time": "10:00 AM"
+            },
+            {
+                "name": "Dance",
+                "time": "11:00 AM"
+            },
+            {
+                "name": "Song",
+                "time": "12:00 PM"
+            },
+            {
+                "name": "Bharathanatiyam",
+                "time": "01:00 PM"
+            },
+            {
+                "name": "Award",
+                "time": "02:00 PM"
+            }
+        ]
+    },
+    {
+        "event_name": "CULTURALS",
+        "organizer": "Vicky",
+        "venue": "KRCT",
+        "date": "2025-05-23",
+        "activities": [
+            {
+                "name": "paatu",
+                "time": "10:00 AM"
+            },
+            {
+                "name": "aatam",
+                "time": "11:00 AM"
+            },
+            {
+                "name": "swimmimg",
+                "time": "12:00 PM"
+            },
+            {
+                "name": "nadanam",
+                "time": "01:00 PM"
+            }
+        ]
+    },
+    {
+        "event_name": "CULTURALS",
+        "organizer": "Vicky",
+        "venue": "KRCT",
+        "date": "2025-05-23",
+        "activities": [
+            {
+                "name": "Open Ceremony",
+                "time": "10:00 AM"
+            },
+            {
+                "name": "Dance",
+                "time": "11:00 AM"
+            },
+            {
+                "name": "Song",
+                "time": "12:00 PM"
+            },
+            {
+                "name": "Bharathanaiyam",
+                "time": "01:00 PM"
+            },
+            {
+                "name": "Speech",
+                "time": "02:00 PM"
+            },
+            {
+                "name": "Award",
+                "time": "03:00 PM"
+            }
+        ]
+    },
+    {
+        "event_name": "CULTURALS",
+        "organizer": "Vicky",
+        "venue": "KRCT",
+        "date": "2025-05-23",
+        "activities": [
+            {
+                "name": "Welcome Ceremony",
+                "time": "10:00 AM"
+            },
+            {
+                "name": "Dance",
+                "time": "11:00 AM"
+            },
+            {
+                "name": "Song",
+                "time": "12:00 PM"
+            },
+            {
+                "name": "Drawing",
+                "time": "01:00 PM"
+            },
+            {
+                "name": "Award",
+                "time": "02:00 PM"
+            }
+        ]
+    },
+    {
+        "event_name": "CULTURALS",
+        "organizer": "Vicky",
+        "venue": "KRCT",
+        "date": "2025-05-23",
+        "activities": [
+            {
+                "name": "Award",
+                "time": "10:00 AM"
+            },
+            {
+                "name": "Dance",
+                "time": "11:00 AM"
+            },
+            {
+                "name": "Song",
+                "time": "12:00 PM"
+            }
+        ]
+    },
+    {
+        "event_name": "Annual Day",
+        "organizer": "Vicky",
+        "venue": "KRCT",
+        "date": "2025-05-23",
+        "activities": [
+            {
+                "name": "speech",
+                "time": "10:00 AM"
+            },
+            {
+                "name": "Art",
+                "time": "11:00 AM"
+            },
+            {
+                "name": "Draw",
+                "time": "12:00 PM"
+            }
+        ]
+    },
+    {
+        "event_name": "Inaguration",
+        "organizer": "Vicky",
+        "venue": "KRCT",
+        "date": "2025-05-24",
+        "activities": [
+            {
+                "name": "Vanakkam",
+                "time": "10:00 AM"
+            },
+            {
+                "name": "speech",
+                "time": "11:00 AM"
+            },
+            {
+                "name": "Song",
+                "time": "12:00 PM"
+            },
+            {
+                "name": "Dance",
+                "time": "01:00 PM"
+            }
+        ]
+    },
+    {
+        "event_name": "CULTURALS",
+        "organizer": "Vicky",
+        "venue": "KRCT",
+        "date": "2025-06-09",
+        "activities": [
+            {
+                "name": "DANCE",
+                "time": "10:00 AM"
+            },
+            {
+                "name": "SONG",
+                "time": "11:00 AM"
+            },
+            {
+                "name": "ART",
+                "time": "12:00 PM"
+            }
+        ]
+    },
+    {
+        "event_name": "Sports Day",
+        "organizer": "Farhan",
+        "venue": "KRCT",
+        "date": "2025-06-09",
+        "activities": [
+            {
+                "name": "Running Race",
+                "time": "10:00 AM"
+            },
+            {
+                "name": "Relay",
+                "time": "11:00 AM"
+            },
+            {
+                "name": "Swimming",
+                "time": "12:00 PM"
+            },
+            {
+                "name": "Long jump",
+                "time": "01:00 PM"
+            }
+        ]
+    },
+    {
+        "event_name": "Culturals",
+        "organizer": "Farhan",
+        "venue": "KRCT",
+        "date": "2025-06-09",
+        "activities": [
+            {
+                "name": "Art",
+                "time": "10:00 AM"
+            },
+            {
+                "name": "Drawing",
+                "time": "11:00 AM"
+            },
+            {
+                "name": "Song",
+                "time": "12:00 PM"
+            },
+            {
+                "name": "Speech",
+                "time": "01:00 PM"
+            }
+        ]
+    },
+    {
+        "event_name": "Culturals",
+        "organizer": "Farhan",
+        "venue": "KRCT",
+        "date": "2025-06-09",
+        "activities": [
+            {
+                "name": "Dance",
+                "time": "10:00 AM"
+            },
+            {
+                "name": "Song",
+                "time": "11:00 AM"
+            },
+            {
+                "name": "Speech",
+                "time": "12:00 PM"
+            }
+        ]
+    },
+    {
+        "event_name": "Culturals",
+        "organizer": "Vicky",
+        "venue": "KRCT",
+        "date": "2025-06-09",
+        "activities": [
+            {
+                "name": "Song",
+                "time": "10:00 AM"
+            },
+            {
+                "name": "Danse",
+                "time": "11:00 AM"
+            },
+            {
+                "name": "Speech",
+                "time": "12:00 PM"
+            }
+        ]
+    },
+    {
+        "event_name": "Culturals",
+        "organizer": "Vicky",
+        "venue": "KRCT",
+        "date": "2025-06-09",
+        "activities": [
+            {
+                "name": "DANCE",
+                "time": "10:00 AM"
+            },
+            {
+                "name": "SONG",
+                "time": "11:00 AM"
+            },
+            {
+                "name": "ART",
+                "time": "12:00 PM"
+            },
+            {
+                "name": "SPEECH",
+                "time": "01:00 PM"
+            }
+        ]
+    },
+    {
+        "event_name": "Culturals",
+        "organizer": "Vicky",
+        "venue": "KRCT",
+        "date": "2025-06-09",
+        "activities": [
+            {
+                "name": "DANCE",
+                "time": "10:00 AM"
+            },
+            {
+                "name": "SONG",
+                "time": "11:00 AM"
+            },
+            {
+                "name": "ART",
+                "time": "12:00 PM"
+            },
+            {
+                "name": "SPEECH",
+                "time": "01:00 PM"
+            }
+        ]
+    },
+    {
+        "event_name": "Culturals",
+        "organizer": "Vicky",
+        "venue": "KRCT",
+        "date": "2025-06-09",
+        "activities": [
+            {
+                "name": "DANCE",
+                "time": "10:00 AM"
+            },
+            {
+                "name": "SONG",
+                "time": "11:00 AM"
+            },
+            {
+                "name": "SPEECH",
+                "time": "12:00 PM"
+            },
+            {
+                "name": "AWARD",
+                "time": "01:00 PM"
+            }
+        ]
+    },
+    {
+        "event_name": "Culturals",
+        "organizer": "Vicky",
+        "venue": "KRCT",
+        "date": "2025-06-09",
+        "activities": [
+            {
+                "name": "Art",
+                "time": "10:00 AM"
+            },
+            {
+                "name": "Drawing",
+                "time": "11:00 AM"
+            },
+            {
+                "name": "Song",
+                "time": "12:00 PM"
+            },
+            {
+                "name": "Dance",
+                "time": "01:00 PM"
+            }
+        ]
+    },
+    {
+        "event_name": "Culturals",
+        "organizer": "Vicky",
+        "venue": "KRCT",
+        "date": "2025-06-09",
+        "activities": [
+            {
+                "name": "Dance",
+                "time": "10:00 AM"
+            },
+            {
+                "name": "Song",
+                "time": "11:00 AM"
+            },
+            {
+                "name": "Art",
+                "time": "12:00 PM"
+            },
+            {
+                "name": "Speech",
+                "time": "01:00 PM"
+            }
+        ]
+    },
+    {
+        "event_name": "Culturals",
+        "organizer": "Vicky",
+        "venue": "KRCT",
+        "date": "2025-06-09",
+        "activities": [
+            {
+                "name": "Dance",
+                "time": "10:00 AM"
+            },
+            {
+                "name": "Art",
+                "time": "11:00 AM"
+            },
+            {
+                "name": "Song",
+                "time": "12:00 PM"
+            },
+            {
+                "name": "Speech",
+                "time": "01:00 PM"
+            }
+        ]
+    },
+    {
+        "event_name": "CULTURALS",
+        "organizer": "Vicky",
+        "venue": "KRCT",
+        "date": "2025-06-09",
+        "activities": [
+            {
+                "name": "WELCOME CEREMONY",
+                "time": "10:00 AM"
+            },
+            {
+                "name": "DANCE",
+                "time": "11:00 AM"
+            },
+            {
+                "name": "SONG",
+                "time": "12:00 PM"
+            },
+            {
+                "name": "LUNCH",
+                "time": "01:00 PM"
+            },
+            {
+                "name": "ART",
+                "time": "02:00 PM"
+            },
+            {
+                "name": "INSTRUMENT",
+                "time": "03:00 PM"
+            },
+            {
+                "name": "SPEECH",
+                "time": "04:00 PM"
+            },
+            {
+                "name": "AWARD",
+                "time": "05:00 PM"
+            }
+        ]
+    },
+    {
+        "event_name": "CULTURALS",
+        "organizer": "Vicky",
+        "venue": "KRCT",
+        "date": "2025-06-09",
+        "activities": [
+            {
+                "name": "Welcome Ceremony",
+                "time": "10:00 AM"
+            },
+            {
+                "name": "Dance",
+                "time": "11:00 AM"
+            },
+            {
+                "name": "Song",
+                "time": "12:00 PM"
+            },
+            {
+                "name": "Lunch break",
+                "time": "01:00 PM"
+            },
+            {
+                "name": "Art",
+                "time": "02:00 PM"
+            },
+            {
+                "name": "Instrumentation",
+                "time": "03:00 PM"
+            },
+            {
+                "name": "Speech",
+                "time": "04:00 PM"
+            },
+            {
+                "name": "Award",
+                "time": "05:00 PM"
+            }
+        ]
+    },
+    {
+        "event_name": "CULTURALS",
+        "organizer": "Vicky",
+        "venue": "KRCT",
+        "date": "2025-06-09",
+        "activities": [
+            {
+                "name": "Welcome Ceremony",
+                "time": "10:00 AM"
+            },
+            {
+                "name": "Dance",
+                "time": "11:00 AM"
+            },
+            {
+                "name": "Song",
+                "time": "12:00 PM"
+            },
+            {
+                "name": "Lunch break",
+                "time": "01:00 PM"
+            },
+            {
+                "name": "Art",
+                "time": "02:00 PM"
+            },
+            {
+                "name": "Instrumentation",
+                "time": "03:00 PM"
+            },
+            {
+                "name": "Speech",
+                "time": "04:00 PM"
+            },
+            {
+                "name": "Award",
+                "time": "05:00 PM"
+            }
+        ]
+    },
+    {
+        "event_name": "CULTURALS",
+        "organizer": "Vicky",
+        "venue": "KRCT",
+        "date": "2025-06-09",
+        "activities": [
+            {
+                "name": "Welcome Ceremony",
+                "time": "10:00 AM"
+            },
+            {
+                "name": "Dance",
+                "time": "11:00 AM"
+            },
+            {
+                "name": "Song",
+                "time": "12:00 PM"
+            },
+            {
+                "name": "Lunch break",
+                "time": "01:00 PM"
+            },
+            {
+                "name": "Art",
+                "time": "02:00 PM"
+            },
+            {
+                "name": "Instrumentation",
+                "time": "03:00 PM"
+            },
+            {
+                "name": "Speech",
+                "time": "04:00 PM"
+            },
+            {
+                "name": "Award",
+                "time": "05:00 PM"
+            }
+        ]
+    },
+    {
+        "event_name": "CULTURALS",
+        "organizer": "Vicky",
+        "venue": "KRCT",
+        "date": "2025-06-09",
+        "activities": [
+            {
+                "name": "Welcome Ceremony",
+                "time": "10:00 AM"
+            },
+            {
+                "name": "Dance",
+                "time": "11:00 AM"
+            },
+            {
+                "name": "Song",
+                "time": "12:00 PM"
+            },
+            {
+                "name": "Art",
+                "time": "01:00 PM"
+            },
+            {
+                "name": "Instrumentation",
+                "time": "02:00 PM"
+            },
+            {
+                "name": "Speech",
+                "time": "03:00 PM"
+            },
+            {
+                "name": "Award",
+                "time": "04:00 PM"
+            }
+        ]
+    },
+    {
+        "event_name": "CULTURALS",
+        "organizer": "Vicky",
+        "venue": "KRCT",
+        "date": "2025-06-09",
+        "activities": [
+            {
+                "name": "Welcome Ceremony",
+                "time": "10:00 AM"
+            },
+            {
+                "name": "Dance",
+                "time": "11:00 AM"
+            },
+            {
+                "name": "Song",
+                "time": "12:00 PM"
+            },
+            {
+                "name": "Art",
+                "time": "01:00 PM"
+            },
+            {
+                "name": "Instrumentation",
+                "time": "02:00 PM"
+            },
+            {
+                "name": "Speech",
+                "time": "03:00 PM"
+            },
+            {
+                "name": "Award",
+                "time": "04:00 PM"
+            }
+        ]
+    },
+    {
+        "event_name": "CULTURALS",
+        "organizer": "Vicky",
+        "venue": "KRCT",
+        "date": "2025-06-09",
+        "activities": [
+            {
+                "name": "Welcome Ceremony",
+                "time": "10:00 AM"
+            },
+            {
+                "name": "Dance",
+                "time": "11:00 AM"
+            },
+            {
+                "name": "Song",
+                "time": "12:00 PM"
+            },
+            {
+                "name": "Lunch break",
+                "time": "01:00 PM"
+            },
+            {
+                "name": "Drawing",
+                "time": "02:00 PM"
+            },
+            {
+                "name": "Instrumentation",
+                "time": "03:00 PM"
+            },
+            {
+                "name": "Speech",
+                "time": "04:00 PM"
+            },
+            {
+                "name": "Award",
+                "time": "05:00 PM"
+            }
+        ]
+    },
+    {
+        "event_name": "Blood Camp",
+        "organizer": "Vicky",
+        "venue": "KRCT",
+        "date": "2025-06-09",
+        "activities": [
+            {
+                "name": "Inagural",
+                "time": "10:00 AM"
+            },
+            {
+                "name": "CG Speech",
+                "time": "11:00 AM"
+            },
+            {
+                "name": "Camp",
+                "time": "12:00 PM"
+            },
+            {
+                "name": "Validatory Fn",
+                "time": "01:00 PM"
+            }
+        ]
+    }
+]

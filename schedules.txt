@@ -1,0 +1,50 @@
+CULTURALS|2025-05-12|10:00|KRCT
+CULTURALS|2025-05-12|08:31|KRCT
+CULTURALS|2025-05-12|09:47|KRCT
+2025-05-15|10:41|CULTURALS at KRCT
+2025-05-15|11:00|CULTURALS at KRCT
+2025-05-15|11:10|CULTURALS at KRCT
+2025-05-15|11:27|CULTURALS at KRCT
+2025-05-15|11:34|CULTURALS at KRCT
+2025-05-15|00:45|CULTURALS at KRCT
+2025-05-15|10:00|CULTURALS at KRCT
+2025-05-15|10:10|CULTURALS at KRCT
+Event: CULTURALS
+Organized by: Vicky
+Date & Time: 2025-05-15 10:00
+Venue: KRCT
+Activities: Dance
+Song
+Speech
+Award
+Event: CULTURALS
+Organized by: Vicky
+Date & Time: 2025-05-15 10:00
+Venue: KRCT
+Activities: Dance
+Song
+Speech
+Award
+Event: CULTURALS
+Organized by: Vicky
+Date & Time: 2025-05-15 10:33
+Venue: KRCT
+Activities: Dance
+Song
+Speech
+CULTURALS|Vicky|2025-05-15|10:00|KRCT|Dance
+Song
+Speech
+Award
+CULTURALS|Vicky|2025-05-15|10:00|KRCT|Dance
+Song
+Speech
+Award
+CULTURALS|Vicky|2025-05-15|10:30|KRCT|Dance
+Song
+Speech
+Award
+CULTURALS|Vicky|2025-05-15|22:00|KRCT|Dance
+Song
+Speech
+Award

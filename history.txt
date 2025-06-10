@@ -1,0 +1,24 @@
+CULTURALS|Vicky|2025-05-23|11:45|KRCT|drawing
+sketch painting
+dance
+singing|2025-05-21 11:46:45.437618
+CULTURALS|Vicky|2025-05-23|11:45|KRCT|drawing
+sketch painting
+dance
+singing|2025-05-21 11:47:39.333153
+CULTURALS|Vicky|2025-05-23|09:00|KRCT|dancing
+singing
+drawing
+craft
+painting|2025-05-21 13:53:26.174420
+CULTURALS|Vicky|2025-05-23|09:08|KRCT|painting
+printing
+drawing
+dancing
+singing|2025-05-21 14:09:45.052828
+CULTURALS|Raghuram|2025-05-22|06:07|KRCT|dancing
+singing
+drawing
+acting|2025-05-21 16:08:53.389613
+CULTURALS|Vicky|2025-05-21 22:47:46.600799
+CULTURALS|Vicky|2025-05-21 23:03:19.688954

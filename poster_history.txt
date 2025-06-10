@@ -1,0 +1,3 @@
+static/posters\CULTURALS_1.png
+static/posters\CULTURALS_2.png
+static/posters\CULTURALS_3.png
